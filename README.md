@@ -5,6 +5,6 @@ This is the Arduino code for an RGB strip that will change its luminosity based 
 ## Requirements
 
 Arduino Leonardo
-Microphone Sensor (must have analog output)
-WS2812B LED Strip
-5 Volt Power Supply
+<p>Microphone Sensor (must have analog output)</p>
+<p>WS2812B LED Strip</p>
+<p>5 Volt Power Supply</p>
